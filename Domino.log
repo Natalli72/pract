@@ -1,0 +1,4 @@
+﻿cl : Command line warning D9035: option 'clr:pure' has been deprecated and will be removed in a future release
+  Form1.cpp
+  Domino.vcxproj -> C:\Users\laitauril\Documents\Visual Studio 2015\Projects\Domino\Debug\Domino.exe
+  Domino.vcxproj -> C:\Users\laitauril\Documents\Visual Studio 2015\Projects\Domino\Debug\Domino.pdb (Full PDB)
